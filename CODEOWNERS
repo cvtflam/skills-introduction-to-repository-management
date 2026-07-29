@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @cvtflam
+/src/backend/database.py      @cvtflam
+/src/backend/routers/auth.py  @cvtflam
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @cvtflam
